@@ -49,7 +49,7 @@ Collaborative JavaScript-based web application project showcasing teamwork, modu
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritiktiwary519/)
-- 📧 Email: riitiktiwaryda26@gmail.com
+- 📧 Email: ritiktiwaryda26@gmail.com
 - 🌐 Portfolio (coming soon)
 
 ---
