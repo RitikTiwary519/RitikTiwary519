@@ -38,14 +38,6 @@ Collaborative JavaScript-based web application project showcasing teamwork, modu
 
 ---
 
-## 📈 GitHub Stats (Optional)
-<!-- Include if you want a stats image -->
-<!--
-![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RitikTiwary519&show_icons=true&theme=radical)
--->
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritiktiwary519/)
