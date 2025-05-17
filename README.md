@@ -43,6 +43,7 @@ Collaborative JavaScript-based web application project showcasing teamwork, modu
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritiktiwary519/)
 - 📧 Email: ritiktiwaryda26@gmail.com
 - 🌐 Portfolio (coming soon)
+- 💼 Intern at LivingStones Foundation
 
 ---
 
