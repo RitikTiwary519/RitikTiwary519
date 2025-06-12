@@ -1,9 +1,9 @@
 # Hi there, I'm Ritik Tiwary
 
--Final-year B.Tech student at Dhirubhai Ambani Institute of Information and Communication Technology  .
--Passionate about Web Development, Data Structures, Algorithms & Hardware Acceleration  .
--Actively building projects that solve real-world problems with efficiency and scalability . 
--Always learning, always experimenting, always curious .
+-Final-year B.Tech student at Dhirubhai Ambani Institute of Information and Communication Technology  
+-Passionate about Web Development, Data Structures, Algorithms & Hardware Acceleration  
+-Actively building projects that solve real-world problems with efficiency and scalability  
+-Always learning, always experimenting, always curious 
 
 ---
 
