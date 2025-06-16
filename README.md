@@ -6,7 +6,13 @@
 -Always learning, always experimenting, always curious 
 
 # Github Stats
-![Ritik Tiwary stats](https://github-readme-stats.vercel.app/api?username=RitikTiwary519&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+
+<a href="https://github.com/RitikTiwary519/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RitikTiwary519" />
+</a>
+<a href="https://github.com/RitikTiwary519/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RitikTiwary519&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
