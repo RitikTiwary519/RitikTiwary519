@@ -8,10 +8,10 @@
 # Github Stats
 
 <a href="https://github.com/RitikTiwary519/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RitikTiwary519" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RitikTiwary519&theme=dracula" />
 </a>
 <a href="https://github.com/RitikTiwary519/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RitikTiwary519&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RitikTiwary519&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 ---
