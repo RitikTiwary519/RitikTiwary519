@@ -5,6 +5,9 @@
 -Actively building projects that solve real-world problems with efficiency and scalability  
 -Always learning, always experimenting, always curious 
 
+# Github Stats
+![Ritik Tiwary stats](https://github-readme-stats.vercel.app/api?username=RitikTiwary519&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ---
 
 ## 🔧 Tech Stack
