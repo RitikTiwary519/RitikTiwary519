@@ -12,10 +12,11 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** C++, Python, JavaScript, Verilog
-- **Web:** React.js, Node.js, Express.js, MongoDB, MySQL
+- **Languages:** C++, Python, JavaScript, Java, Verilog
+- **Web:** React.js, SpringBoot, Node.js, Express.js, MongoDB, MySQL
 - **Hardware:** ASIC Design, Cache Architecture, VLSI Concepts
 - **Tools:** Git, GitHub, VSCode, Postman, Figma
+- **Machine Learning:** GenAI, LangChains, LangGraphs
 
 ---
 
